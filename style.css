@@ -69,6 +69,7 @@ body {
     border-radius: 0 40px 0 0;
   }
   .botoes{
+    display:flex;
     flex-direction: row;
   }
 }
